@@ -1,0 +1,47 @@
+Optus Technical Interview Task
+
+Priorities:
+
+- Approach and how I solve problems
+
+- Clearly articulate the scope.
+	- What is the current issue
+	- Whom is it affecting
+	- What does the solution need to bring?
+
+- Solution needs to be
+	- Robust
+	- Scalable
+	- Explainable
+	- !!!DELIVER TANGIBLE VALUE TO THE CUSTOMER!!!
+
+
+Approaches:
+Can I use LLM to assist?
+Visualise the data - see anything obvious going on
+- Start with pandas, do my exploration etc
+- Switch to PySpark for scalability / if needed for performance
+
+
+Questions
+- is the data for a single day or for many days?
+
+
+
+
+
+
+
+
+Chat GPT approach
+-Download the dataset from one of the provided links.
+-Preprocess and clean the data to make it suitable for analysis.
+-Perform exploratory data analysis (EDA) to identify key patterns and trends.
+-Engineer new features if necessary to enhance your analysis.
+-Build and train machine learning models to predict user behavior and generate insights.
+-Present your findings, including any actionable recommendations, during the interview.
+
+FINAL - once built timeseries model etc
+- Content personalisation (frequent vs new users) - can we identify users by ID?
+- Create a visualisation for the presentation... 
+*Think about more ideas for CUSTOMER VALUE!
